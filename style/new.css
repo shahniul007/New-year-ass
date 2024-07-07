@@ -1,0 +1,37 @@
+/* banner section    */
+.banner {
+    text-align: center;
+   padding: 32px;
+    border: 16px;
+    border-radius: 16px;
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position:  center center;
+}
+
+#hhhh {
+    font-size: 30px;
+    color: cyan;
+    font-weight: 600px;
+}
+
+#hh {
+    font-size: 70px;
+    color:cyan;
+    font-weight: 1000px;
+}
+
+/* 65% off */
+.off{
+    text-align: center;
+}
+.offf{
+    color: #f41313;
+    text-emphasis-color: rgb(255, 60, 6);
+}
+#im{
+    width: 802px;
+    height: 500px;
+}
