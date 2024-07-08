@@ -114,16 +114,24 @@ body {
 
 /* subscribe */
 .sub{
-
+    background-color: antiquewhite;
     margin-top: 300px;
     margin-left: 100px;
     width: 1320px;
     height: 616px;
     text-align: center;
-    border: solid #ff0000;
+    border: none;
     border-radius: 16px;
+    margin-bottom: 100px;
 }
 
+#sub-hh {
+    font-size: 40px;
+    font-weight: 900px;
+}
+#sub-p {
+    /* text-align: center; */
+}
 .btn-primary-sub {
     background: #fc0303;
     border: 0;
@@ -157,4 +165,41 @@ body {
     display: flex;
     margin-left: 500px;
     /* align-items: center; */
+}
+
+
+/* footer */
+
+.foot{
+    color: #fff;
+    background-color: #000000;
+}
+.foot-f{
+    display: flex;
+    justify-content: space-around;
+}
+.foot-p{
+    margin-top: ;
+}
+.foot-img{
+    
+    text-align: center;
+}
+
+.foot-last{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-foot{
+    border-radius: 5px;
+    background: #beb8b3;
+
+    height: 35px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    padding: 5px 5px;
+
 }
